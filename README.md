@@ -25,3 +25,15 @@ architecture pour le site :
 .navbar	Barre de navigation
 .nav-link	Liens du menu
 .logo	Logo ou nom du site
+
+
+CheckLIST :
+
+- Accueil (accueil.php)
+- À propos (about.php)
+- Contact (contact.php)
+
+- Header avec navigation (menu + logo)
+- Footer avec liens utiles
+- Fonctions PHP partagées (functions.php)
+- Fichiers CSS + assets
