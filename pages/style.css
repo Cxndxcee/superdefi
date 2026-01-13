@@ -107,7 +107,7 @@ body {
     background-color: #555;
   }
 
-  photos {
+  .photos {
     padding: 40px 20px;
     background: #f9f9f9; 
     text-align: center;
